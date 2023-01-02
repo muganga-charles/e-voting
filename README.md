@@ -1,3 +1,3 @@
 8# e-voting
 java project
-The following isl
+The following is
