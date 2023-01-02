@@ -1,3 +1,3 @@
 # e-voting
 java project
-The followi
+The follow
