@@ -1,3 +1,3 @@
-8# e-voting
+# e-voting
 java project
 The followin
