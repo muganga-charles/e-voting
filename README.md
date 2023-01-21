@@ -1,3 +1,3 @@
 # e-voting
 java project
-Jbjj
+Jbj
